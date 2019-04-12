@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Hola mundo</title>
+</head>
+<body>
+ <header>
+  <nav>
+  //tarea
+  </nav>
+  </header>
+ <aside>
+  //tarea
+  </aside>
+  <article>
+  //tarea
+  </article>
+ <footer>
+  //tarea
+
+</footer>
+</body>
+</html>
